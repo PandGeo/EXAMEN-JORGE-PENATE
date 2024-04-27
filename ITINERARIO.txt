@@ -16,3 +16,6 @@ Itinerario
     Noche
         7 - 8 P.M VER PELICULA
         8: 00 P.M DORMIR
+
+    Madrugada
+        12 - 2 Ir de fiesta
