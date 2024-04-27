@@ -6,13 +6,13 @@ Itinerario
         7 A.M LEVANTARSE
         7:30 A.M BANARSE
         8:30 A.M DESAYUNAR
-        9 - 11 A.M ESTUDIAR
-        11 A.M - 12 P.M DORMIR
+        9 - 11 A.M HACER ASEO
+        11 A.M - 12 P.M COCINAR
     
     Tarde
-        12 - 6 P.M ESTUDIAR 
-        6 - 7 P.M PREPARAR GALLETAS
+        12 - 6 P.M SALIR 
+        6 - 7 P.M COCINAR
 
     Noche
-        7 - 8 P.M VER SERIE
+        7 - 8 P.M VER PELICULA
         8: 00 P.M DORMIR
